@@ -7,6 +7,7 @@ h1 {
   font-family: "Sigmar One";
   font-size: 3rem;
   color: #b20953;
+  margin: 0;
 }
 
 h2 {
@@ -17,6 +18,12 @@ h2 {
 nav ul li {
   list-style-type: none;
   display: inline;
+  margin: 0;
+  padding: .2em, .5em, .3em;
+}
+
+ul{
+  margin: 0;
 }
 
 a {
@@ -26,4 +33,12 @@ a {
   text-decoration: none;
   border-radius: 4px;
   margin: .3em;
+}
+
+header {
+  background-color: #ffe500;
+}
+
+body {
+  margin: 0;
 }
