@@ -3,3 +3,7 @@ html {
   font-size: 3rem;
   color: #2f2d13;
 }
+
+nav ul li {
+  list-style-type: none;
+}
