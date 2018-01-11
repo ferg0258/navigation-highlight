@@ -29,6 +29,10 @@ h2 {
   color: #b20953;
 }
 
+.nav {
+  padding: .3em;
+}
+
 .nav li {
   list-style-type: none;
   display: inline-block;
