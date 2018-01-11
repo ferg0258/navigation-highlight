@@ -15,24 +15,24 @@ h2 {
   font-size: 1.875rem;
   color: #b20953;
 }
-nav ul li {
+li {
   list-style-type: none;
-  display: inline;
+  display: inline-block;
   margin: 0;
   padding: .2em, .5em, .3em;
 }
 
 ul{
   margin: 0;
+  padding: 0;
 }
 
 a {
-  padding: 0.75em;
+  padding: .75em;
   background-color: #b2a212;
   color: #fff;
   text-decoration: none;
   border-radius: 4px;
-  margin: .3em;
 }
 
 header {
