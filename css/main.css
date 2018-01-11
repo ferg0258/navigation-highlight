@@ -21,7 +21,6 @@ h2 {
   list-style-type: none;
   display: inline-block;
   margin: 0;
-  padding: 0.2em,0.5em,0.3em;
 }
 
 ul{
@@ -31,7 +30,7 @@ ul{
 
 li a {
   display: block;
-  padding: .75em;
+  padding: 0 .75em;
   background-color: #b2a212;
   color: #fff;
   text-decoration: none;
