@@ -4,6 +4,7 @@ html {
   font-size: 100%;
   line-height: 1.5;
   color: #2f2d13;
+  margin: 0;
 }
 
 *, *::before, *::after {
@@ -55,6 +56,11 @@ a:hover, .current {
 header, footer {
   text-align: center;
   background-color: #ffe500;
+}
+
+footer {
+  padding-top: .75rem;
+  padding-bottom: .75rem;
 }
 
 body {
