@@ -30,7 +30,7 @@ h2 {
 }
 
 .nav {
-  padding: .3em;
+  padding-bottom: .3em;
 }
 
 .nav li {
@@ -70,4 +70,8 @@ footer {
 
 body {
   margin: 0;
+}
+
+main {
+  margin: .3em;
 }
