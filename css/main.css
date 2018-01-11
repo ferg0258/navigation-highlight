@@ -16,7 +16,7 @@ h2 {
   color: #b20953;
 }
 
-li {
+.nav li {
   list-style-type: none;
   display: inline-block;
   margin: 0;
@@ -28,7 +28,8 @@ ul{
   padding: 0;
 }
 
-a {
+li a {
+  display: block;
   padding: .75em;
   background-color: #b2a212;
   color: #fff;
@@ -40,7 +41,8 @@ a:hover, .current {
   background-color: #cc1465;
 }
 
-header {
+header, footer {
+  text-align: center;
   background-color: #ffe500;
 }
 
